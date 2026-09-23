@@ -1,14 +1,12 @@
 # Hello world! 👋
 
-I'm a Business Analytics & Finance student at the University of Iowa.
-
-### About Me
+# About Me
 - 🎓 Business Analytics & Finance student at the University of Iowa
 - 💻 Interested in data analytics, business intelligence, and technology
 - 📊 Building projects with Python, SQL, and data analytics tools
 - 🚀 Currently looking for internship and full-time opportunities
 
-### Skills
+# Skills
 - Python
 - SQL
 - Microsoft Excel
@@ -16,5 +14,5 @@ I'm a Business Analytics & Finance student at the University of Iowa.
 - Data Analysis
 - Business Analytics
 
-### Projects
+# Projects
 Check out my pinned repositories below to see some of my work.
