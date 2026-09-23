@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abudi! 👋
 
-<!--
-**abudisafi/abudisafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analytics & Finance student at the University of Iowa.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Business Analytics & Finance student at the University of Iowa
+- 💻 Interested in data analytics, business intelligence, and technology
+- 📊 Building projects with Python, SQL, and data analytics tools
+- 🚀 Currently looking for internship and full-time opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Analysis
+- Business Analytics
+
+### Projects
+Check out my pinned repositories below to see some of my work.
