@@ -1,4 +1,4 @@
-# Hi, I'm Abudi! 👋
+# Hello world! 👋
 
 I'm a Business Analytics & Finance student at the University of Iowa.
 
